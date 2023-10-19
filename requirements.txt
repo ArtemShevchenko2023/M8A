@@ -1,0 +1,11 @@
+discord==2.3.2
+disnake==2.9.0
+asyncio==3.4.3
+re==3.11
+datetime==5.2
+random==1.0.1
+time==16.3
+os==16.1
+sqlite3==12.6
+yt_dlp==2023.10.7
+ffmpeg==1.4
